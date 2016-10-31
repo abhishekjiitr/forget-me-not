@@ -1,5 +1,6 @@
-# forget-me-not
+# Little Description about forget-me-not
 ---
+
 A smart wearable device which prevents mobile phone loss. 
 
 Project includes:
